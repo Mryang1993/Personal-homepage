@@ -193,6 +193,7 @@ header p{
 	/*居中*/margin: 0 auto;
 	/*整个块儿向下移动*/
 	margin-top: 20px;
+	padding-bottom: 50px
 }
 .design_box h2{
 	width: 100%;
